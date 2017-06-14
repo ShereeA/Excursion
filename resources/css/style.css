@@ -46,5 +46,10 @@ img {
 .phone {
   display: block;
   margin: auto;
-  width: 50%;
+  width: auto;
+}
+
+.excursion {
+  text-align: right;
+  color: Gray;
 }
