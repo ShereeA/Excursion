@@ -32,9 +32,10 @@ body {
 }
 
 video {
+  text-align: center;
   position: relative;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 35%;
+
 }
 
 img {
@@ -52,4 +53,7 @@ img {
 .excursion {
   text-align: right;
   color: Gray;
+}
+a {
+  color: Aquamarine;
 }
